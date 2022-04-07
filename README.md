@@ -37,3 +37,7 @@
 * https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/
 
 * https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/
+
+* https://www.geeksforgeeks.org/amazon-interview-questions/
+
+* https://www.geeksforgeeks.org/amazons-most-frequently-asked-interview-questions-set-2/
