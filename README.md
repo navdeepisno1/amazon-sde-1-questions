@@ -1,4 +1,4 @@
-# amazon-sde-1-questions
+# amazon-sde-1--technical-questions
 
 * https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
 
@@ -41,3 +41,10 @@
 * https://www.geeksforgeeks.org/amazon-interview-questions/
 
 * https://www.geeksforgeeks.org/amazons-most-frequently-asked-interview-questions-set-2/
+
+
+# amazon-behavioral-questions
+
+* https://www.educative.io/blog/why-amazon-interview-question
+
+* https://futureofworking.com/amazon-behavioral-interview-questions/
